@@ -1,4 +1,4 @@
-package seo.hak.station01;
+package week1.YEOMCODING;
 
 import java.util.Scanner;
 
@@ -57,7 +57,7 @@ public class Practice01 {
 			}else {
 				return c;
 			}
-		}else if(a > c) { // b´Â aº¸´Ù ÀÛ´Ù´Â °¡Á¤ÇÏ¿¡ a < b
+		}else if(a > c) { // bï¿½ï¿½ aï¿½ï¿½ï¿½ï¿½ ï¿½Û´Ù´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ a < b
 			return a;
 		}else if(b > c) {
 			return c;
@@ -69,8 +69,8 @@ public class Practice01 {
 	public static void problem07() {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("1ºÎÅÍ n±îÁöÀÇ ÇÕÀ» ±¸ÇÕ´Ï´Ù");
-		System.out.print("n°ª : ");
+		System.out.println("1ï¿½ï¿½ï¿½ï¿½ nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Õ´Ï´ï¿½");
+		System.out.print("nï¿½ï¿½ : ");
 		int n = sc.nextInt();
 		
 		int sum = 0;
@@ -82,7 +82,7 @@ public class Practice01 {
 			i++;
 		}
 		
-		System.out.println("iÀÇ °ªÀº ? " + i + ", nÀº?? " + n + ", sumÀÇ °ªÀº?" + sum );
+		System.out.println("iï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ? " + i + ", nï¿½ï¿½?? " + n + ", sumï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½?" + sum );
 	
 		
 	}
@@ -99,21 +99,21 @@ public class Practice01 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("a°ª : ");
+		System.out.print("aï¿½ï¿½ : ");
 		int a = sc.nextInt();
 		
 		int b;
 		
 		do {
-			System.out.print("b°ª : ");
+			System.out.print("bï¿½ï¿½ : ");
 			b = sc.nextInt();
 			
 			if(b<=a) {
-			System.out.println("aº¸´Ù Å« °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä!!");
+			System.out.println("aï¿½ï¿½ï¿½ï¿½ Å« ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½!!");
 			}
 		}while(b <= a);
 		
-		System.out.println("b-a´Â " + (b-a) + "ÀÔ´Ï´Ù.");
+		System.out.println("b-aï¿½ï¿½ " + (b-a) + "ï¿½Ô´Ï´ï¿½.");
 		
 	}
 	
