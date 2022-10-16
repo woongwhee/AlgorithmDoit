@@ -1,3 +1,6 @@
+package week1.kimdory;
+
+
 import java.util.Scanner;
 
 public class Chap_01_Q02 {

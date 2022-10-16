@@ -1,3 +1,4 @@
+package week1.kimdory;
 
 public class Chap_01_Q11 {
 
