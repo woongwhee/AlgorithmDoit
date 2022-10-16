@@ -1,4 +1,4 @@
-package seo.hak.station01;
+package week1.YEOMCODING;
 
 import java.util.Scanner;
 
@@ -86,9 +86,7 @@ public class Practice01 {
 	
 		
 	}
-	
-	
-	public static int sumof(int a, int b) {
+	static int sumof(int a, int b) {
 		
 		int c  = (a+b)*((Math.abs(a-b)+1)/2);
 		
