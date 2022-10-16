@@ -1,4 +1,8 @@
 package week1.kimdory;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 727ceb23c060ed596644114d5b73009563cee5fb
 import java.util.Scanner;
 
 public class Chap_01_Q01 {

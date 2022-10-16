@@ -16,9 +16,9 @@ public class Run {
 		//a.problem07();
 		//System.out.println(a.sumof(1, 10));
 		
-		//a.sumof03();
+		a.sumof03();
 		
-		a.spira2();
+		//a.spira2();
 		
 	}
 
