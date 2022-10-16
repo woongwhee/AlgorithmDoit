@@ -1,4 +1,4 @@
-
+package week1.kimdory;
 public class Chap_01_Q12 {
 	
 	public static void main(String[] args) {
