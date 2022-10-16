@@ -1,4 +1,3 @@
-
 package week1.kimdory;
 
 import java.util.Scanner;

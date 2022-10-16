@@ -1,11 +1,4 @@
 package week1.kimdory;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> c6e4c25d32b22ecd196841e4fe81251164fe9a24
->>>>>>> 727ceb23c060ed596644114d5b73009563cee5fb
 public class Chap_01_Q11 {
 
 	public static void main(String[] args) {
