@@ -1,4 +1,4 @@
-package seo.hak.station01;
+package week1.YEOMCODING;
 
 import java.util.Scanner;
 
