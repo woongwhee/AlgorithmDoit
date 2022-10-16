@@ -1,4 +1,4 @@
-package chap01_BasicAlgorithm.practice;
+package week1.HYUNJEONGJANG;
 
 import java.util.Scanner;
 
