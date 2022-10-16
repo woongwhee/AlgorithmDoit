@@ -1,4 +1,8 @@
-package chap01_BasicAlgorithm.practice;
+package week1.HYUNJEONGJANG;
+<<<<<<< HEAD
+=======
+
+>>>>>>> eb2dcf959551782a9438b76684fa9a96a93dff22
 
 public class Q04 {
 
