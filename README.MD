@@ -2,14 +2,14 @@
 Doit ALgorithm Book Study (Every Sun 1p.m.)
 
 ## Contributor
-  |이름|GitHub|
-  |--|---|
-  |웅휘|[@woongwhee](https://github.com/woongwhee)|
-  |상엽|[@Lee-sang-yeop](https://github.com/Lee-sang-yeop)|
-  |도윤|[@kimdory](https://github.com/kimdory)|
-  |서학|[@YEOMCODING](https://github.com/YEOMCODING)|
-  |현정|[@HYUNJEONGJANG](https://github.com/HYUNJEONGJANG)|
-  |채영|[@KCY9392](https://github.com/KCY9392)|
+|이름|GitHub|
+|--|---|
+|웅휘|[@woongwhee](https://github.com/woongwhee)|
+|상엽|[@Lee-sang-yeop](https://github.com/Park52)|
+|도윤|[@kimdory](https://github.com/Park52)|
+|서학|[@YEOMCODING](https://github.com/YEOMCODING)|
+|현정|[@HYUNJEONGJANG](https://github.com/HYUNJEONGJANG)|
+|채영|[@KCY9392](https://github.com/KCY9392)|
 
 
 1) 주 마다 정해온 분량의 책을 읽어 옴
